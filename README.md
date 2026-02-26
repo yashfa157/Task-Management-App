@@ -125,7 +125,6 @@ flutter run
 * Proper error handling
 
 ---
----
 
 ## **Author**
 
