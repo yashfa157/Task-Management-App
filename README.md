@@ -125,14 +125,6 @@ flutter run
 * Proper error handling
 
 ---
-
-## **Notes**
-
-* Tasks persist locally using **Sqflite**
-* UI is modern, clean, and responsive
-* Fully modular and maintainable code
-* Suitable for Flutter internships or beginner projects
-
 ---
 
 ## **Author**
