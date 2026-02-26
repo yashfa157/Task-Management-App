@@ -106,7 +106,7 @@ flutter run
 
 ---
 
-## **💡 Architecture**
+## **Architecture**
 
 * **Clean Architecture**: Separates layers into **data, domain, and presentation**
 * **Data Layer**: Handles local database operations and repository implementation
