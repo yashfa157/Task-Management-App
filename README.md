@@ -86,8 +86,8 @@ lib/
 1. Clone the repository:
 
 ```bash
-git clone <https://github.com/yashfa157/Task-Management-App>
-cd <your path where folder is stored>
+git clone https://github.com/yashfa157/Task-Management-App
+cd Task-Management-App
 ````
 
 2. Install dependencies:
